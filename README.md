@@ -12,14 +12,21 @@ Me destaco por mi habilidad para trabajar eficientemente en equipo, resolver con
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="75px" height="75px"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="75px" height="75px">
 
 ### FrontEnd:
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" alt="React" width="75px" height="75px"> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="75px" height="75px"> &nbsp; <img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" alt="Tailwind" width="75px" height="75px"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="80px" height="75px"> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="75px" height="75px"> &nbsp; <img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" alt="Tailwind" width="75px" height="75px"> &nbsp;
 
+### BackEnd:
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJs" width="75px" height="75px"> &nbsp; <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express" width="75px" height="75px"> &nbsp; <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_plain_logo_icon_146346.png" alt="Sequelize" width="75px" height="75px"> &nbsp;
 
+### DataBase:
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_vertical_logo_icon_168900.png" alt="PostgreSQL" width="75px" height="75px"> &nbsp;
+
+### Proximamente:
+<img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="MongoDB" width="75px" height="75px"> &nbsp; <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="Nextjs" width="75px" height="75px"> &nbsp;
 
 ## Contacto:
 
 <a href="https://www.linkedin.com/in/carlos-lagos-9b8030288/">
-  <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="LinkedIn" width="125px" height="75px">
+<img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="LinkedIn" width="125px" height="75px">
 </a>
 
 
