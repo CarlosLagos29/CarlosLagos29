@@ -29,6 +29,9 @@ Me destaco por mi habilidad para trabajar eficientemente en equipo, resolver con
 <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="LinkedIn" width="125px" height="75px">
 </a>
 
+<a href="mailto:lagosc252@gmail.com">
+  <img src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Email"  width="75px" height="75px">
+</a>
 
 <!--
 **CarlosLagos29/CarlosLagos29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
