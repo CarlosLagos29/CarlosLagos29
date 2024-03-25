@@ -18,10 +18,10 @@ Me destaco por mi habilidad para trabajar eficientemente en equipo, resolver con
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJs" width="75px" height="75px"> &nbsp; <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express" width="75px" height="75px"> &nbsp; <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_plain_logo_icon_146346.png" alt="Sequelize" width="75px" height="75px"> &nbsp;
 
 ### DataBase:
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_vertical_logo_icon_168900.png" alt="PostgreSQL" width="75px" height="75px"> &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_vertical_logo_icon_168900.png" alt="PostgreSQL" width="75px" height="75px"> &nbsp; <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="MongoDB" width="75px" height="75px"> &nbsp;
 
 ### Proximamente:
-<img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="MongoDB" width="75px" height="75px"> &nbsp; <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="Nextjs" width="75px" height="75px"> &nbsp;
+ <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="Nextjs" width="75px" height="75px"> &nbsp;
 
 ## Contacto:
 
